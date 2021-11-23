@@ -30,7 +30,7 @@ namespace SimpleAPI.Controllers
         public ActionResult<string> Get(int i)
         {
             //return new string[] {"Biltu","Khawas"};
-            return "Biltu Khawas";
+            return "Biltu Khawas.";
         }
     }
 }
